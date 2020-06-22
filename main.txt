@@ -1,1 +1,3 @@
 Main app initialized
+main app
+dasm,asdnmasd
